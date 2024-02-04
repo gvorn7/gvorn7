@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gvorn7&label=Profile%20views&color=0e75b6&style=flat" alt="gvorn7" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/kangchivor74328" target="blank"><img src="https://img.shields.io/twitter/follow/kangchivor74328?logo=twitter&style=for-the-badge" alt="kangchivor74328" /></a> </p>
 
