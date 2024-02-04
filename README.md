@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @gvorn7
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me chivorn.tc@gmail.com
 - ⚡ Fun fact: coding without coffee like me live without u
 
 <!---
