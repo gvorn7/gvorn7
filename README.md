@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/kangchivor74328" target="blank"><img src="https://img.shields.io/twitter/follow/kangchivor74328?logo=twitter&style=for-the-badge" alt="kangchivor74328" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gvorn7.github.io/vorn.port/](https://gvorn7.github.io/vorn.port/)
+- 👨‍💻 my portfolio [https://gvorn7.github.io/vorn.port/](https://gvorn7.github.io/vorn.port/)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
